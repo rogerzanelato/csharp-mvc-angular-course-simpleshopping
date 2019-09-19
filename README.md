@@ -71,7 +71,10 @@ Caso algum erro ocorra, podemos visualizá-lo através do **Output**.
 - Automapper (mapear classes de um objeto para outro)
 - Automapper.Extensions.Microsoft.DependencyInjection
 
+## Requests Sample
+https://www.getpostman.com/collections/c8209360b8cde65448db
+ 
 
 
 
-
+ 47% building modules 311/312 modules 1 active …les\@angular\compiler\fesm5\comp
